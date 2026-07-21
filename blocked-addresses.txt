@@ -696,12 +696,6 @@
 71.198.87.159
 46.101.117.172
 139.59.143.102
-Methi Bajri Bhakhri 
-One bite and you'll say — Saras Che - Should be in the middle and color change
-
-J1780300721409674 
-
-
 194.102.104.207 
 46.17.45.56 
 46.17.45.49 
@@ -761,43 +755,6 @@ J1780300721409674
 83.142.209.64
 91.92.243.79
 158.94.211.76
-
-
-
-
-
-
-8.30 to 10.30
-
-Linux |P2| Disk or file mount detected on a Linux Server
-Critical Security Tool Stopped - Defender NIS service (NisSrv.exe) exit on ROSDC02 aligns with normal service restart/maintenance activity.
-
-
-
-SCTASK0184723 - Elton
-RITM0093761 - Elton
-
-
-
-
-qradar@console-00800.qradar.ibmcloud.com - Mentioned something in the body
-do_not_reply@penumbrainc.coupahost.com
-solutions@resonetics.com
-noreply@mastercontrol.com
-raporty@9477.pl
-kelley.ryan@manpowergroup.com
-
-
-0 exclude "calendar"
-0 exclude "zoom"
-0 exclude "meeting"
-0 exclude "Accepted"
--1 "The"
--1 " "
--1 "."
-1 regex \A\s*$
-
-
 94.242.249.75  
 185.177.59.70  
 184.164.70.13  
@@ -1047,50 +1004,6 @@ kelley.ryan@manpowergroup.com
 217.154.217.139  
 217.154.162.45 
 84.201.6.54 
-
-
-
-yuvraj 90
-shikha 50
-Suvesh 112
-
-
-Mari 1 16
-Tomato 0 15
-Yellow 1 7
-
-Dryfruits 0 
-Methi  Bajri 5
-Jowar Kanda 3
-Ragi 2
-
-Methi Premium - 1 7
-Masala Premium - 1 16
-Jeera Premium - 1 15
-Plain  Premium - 1 19
-
-Butter Garlic 0 26
-Chat Masala 11 8
-Cheese 7 7
-Garlic Bread 18  17
-Korean  9 59
-Maggi 0 40
-methi 4 29
-Mexican 0 67 
-Pani Puri 11 11
-Peri Peri 11 11
-Pizza 0 46
-schezwan 36 36
-tandoori 10 26
-Thai chilly 0 56
-tomato 0 0
-Achari 0 0
-Indian pickle 0 0 
-
-
-sabarmati - ola uber
-
-
 23.254.164.92
 23.254.164.123
 188.114.96.7
@@ -1110,9 +1023,6 @@ sabarmati - ola uber
 103.203.57.11
 198.235.24.225
 178.20.210.208
-
-
-
 199.249.113.1
 15.197.148.33
 185.125.188.55
